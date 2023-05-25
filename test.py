@@ -1,1 +1,3 @@
-number = "+254732050089"
+
+print('Enter a number:')
+number = input()
